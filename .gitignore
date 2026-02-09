@@ -1,0 +1,29 @@
+# Composer
+**/vendor/
+
+# PHP
+.phpunit.result.cache
+.php_cs.cache
+composer.phar
+
+# Environment variables
+**/.env
+**/.env.backup
+**/.env.*
+!.env.example
+
+# Log files
+**/*.log
+
+# IDEs
+**/.idea/
+**/.vscode/
+**/.antigravity/
+**/*.swp
+**/*.swo
+
+# MacOS
+**/.DS_Store
+
+# Windows
+**/Thumbs.db
