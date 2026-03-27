@@ -27,3 +27,9 @@ composer.phar
 
 # Windows
 **/Thumbs.db
+
+# Archivos
+**/*.docx
+**/*.pdf
+**/*.pptx
+**/*.xlsx
